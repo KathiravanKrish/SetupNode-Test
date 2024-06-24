@@ -1,0 +1,27 @@
+{
+  "name": "mango-psh",
+  "version": "0.1.7",
+  "description": "This is a test project for setting up a Node.js environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KathiravanKrish/SetupNode-Test.git"
+  },
+  "author": "kathiravankrish@github.com",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/KathiravanKrish/SetupNode-Test/issues"
+  },
+  "homepage": "https://github.com/KathiravanKrish/SetupNode-Test#readme",
+  "keywords": [
+    "\"keywords\":",
+    "[\"node\"",
+    "\"setup\"",
+    "\"test\"",
+    "\"node-setup\"",
+    "\"node-test\"]"
+  ]
+}
