@@ -2,7 +2,7 @@
   "name": "mango-psh",
   "version": "0.1.7",
   "description": "This is a test project for setting up a Node.js environment",
-  "main": "index.js",
+  "main": "mango-psh.js",
   "scripts": {
     "test": "npm test"
   },
