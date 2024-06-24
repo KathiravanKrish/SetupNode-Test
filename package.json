@@ -1,23 +1,19 @@
 {
   "name": "mango-psh",
   "version": "0.1.7",
-  "description": "\"setup node test action\"",
+  "description": "\"setup node test\"",
   "main": "mango-psh.js",
   "scripts": {
-    "test": "\"test\": \"mango-psh\""
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "KathiravanKrish / SetupNode-Test"
+    "url": "git+https://github.com/KathiravanKrish/SetupNode-Test.git"
   },
-  "keywords": [
-    "[\"node\"",
-    "\"node.js\"",
-    "\"setup\"",
-    "\"test\"",
-    "\"installation\"",
-    "\"javascript\"]"
-  ],
-  "author": "kathiravankrish@github.com",
-  "license": "MIT"
+  "author": "\"Kathiravankrish\"",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/KathiravanKrish/SetupNode-Test/issues"
+  },
+  "homepage": "https://github.com/KathiravanKrish/SetupNode-Test#readme"
 }
