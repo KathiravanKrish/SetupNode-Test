@@ -6,7 +6,7 @@
   "repository": "https://github.com/KathiravanKrish/SetupNode-Test",
   "author": "Kathiravankrish <kathiravankrish@github.com>",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "workspaces": [
     "packages/codemirror-language-client",
     "packages/liquid-html-parser",
