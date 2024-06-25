@@ -3,7 +3,7 @@
   "version": "0.1.7",
   "description": "Setup Node Test",
   "main": "index.js",
-   "scripts": {
+  "scripts": {
     "admin:build": "sh ./scripts/dev-admin-build.sh",
     "admin:init": "sh ./scripts/dev-admin-init.sh",
     "build": "yarn workspaces run build",
@@ -36,8 +36,7 @@
     "webpack": "^5.76.0",
     "webpack-cli": "^5.0.0",
     "webpack-dev-server": "^4.11.1"
-  }
-}
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/KathiravanKrish/SetupNode-Test.git"
@@ -49,3 +48,4 @@
   },
   "homepage": "https://github.com/KathiravanKrish/SetupNode-Test#readme"
 }
+```
