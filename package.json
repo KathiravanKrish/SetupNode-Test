@@ -3,8 +3,9 @@
   "version": "0.1.7",
   "description": "Setup Node Test",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+ "scripts": {
+  "build": "tsc"
+}
   },
   "repository": {
     "type": "git",
