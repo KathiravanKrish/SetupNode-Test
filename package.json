@@ -4,8 +4,8 @@
   "description": "Setup Node Test",
   "main": "index.js",
   "scripts": {
-    "build": "babel src -d dist"
-  },
+  "build": "tsc"
+},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/KathiravanKrish/SetupNode-Test.git"
