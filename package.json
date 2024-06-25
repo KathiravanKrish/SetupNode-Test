@@ -1,6 +1,6 @@
 {
   "name": "theme-tools",
-  "private": false,
+  "private": true,
   "version": "0.1.7",
   "description": "Test repo of node ",
   "main": "index.js",
