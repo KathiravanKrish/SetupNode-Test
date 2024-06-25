@@ -1,28 +1,19 @@
 {
   "name": "mango-psh",
   "version": "0.1.7",
-  "description": "This is a test setup for a Node.js project",
-  "main": "Mango-psh.js",
+  "description": "This is a test setup for a Node.js project.\"",
+  "main": "mango-psh.js",
   "scripts": {
-    "build": "ncc build -o dist/setup src/mango-psh.ts && ncc build -o dist/cache-save src/cache-save.ts",
-    "format": "prettier --no-error-on-unmatched-pattern --config ./.prettierrc.js --write \"**/*.{ts,yml,yaml}\"",
-    "format-check": "prettier --no-error-on-unmatched-pattern --config ./.prettierrc.js --check \"**/*.{ts,yml,yaml}\"",
-    "lint": "eslint --config ./.eslintrc.js \"**/*.ts\"",
-    "lint:fix": "eslint --config ./.eslintrc.js \"**/*.ts\" --fix",
-    "test": "jest --coverage",
-    "pre-checkin": "npm run format && npm run lint:fix && npm run build && npm test"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/KathiravanKrish/SetupNode-Test.git"
   },
-  "author": "",
+  "author": "GIT",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/KathiravanKrish/SetupNode-Test/issues"
   },
-  "homepage": "https://github.com/KathiravanKrish/SetupNode-Test#readme",
-  "devDependencies": {
-    "@vercel/ncc": "^0.38.1"
-  }
+  "homepage": "https://github.com/KathiravanKrish/SetupNode-Test#readme"
 }
