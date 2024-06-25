@@ -1,12 +1,12 @@
 {
   "name": "theme-tools",
-  "version": "1.0.0",
+  "version": "0.1.7",
   "description": "The Swiss Army Knife for Shopify Liquid themes. Everything you need in one handy monorepo!",
   "main": "index.js",
   "repository": "https://github.com/Shopify/theme-tools",
   "author": "Albert Chu <albert.chu@shopify.com>",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "workspaces": [
     "packages/codemirror-language-client",
     "packages/liquid-html-parser",
