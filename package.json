@@ -3,9 +3,8 @@
   "version": "0.1.7",
   "description": "Setup Node Test",
   "main": "index.js",
- "scripts": {
-  "build": "tsc"
-}
+  "scripts": {
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
