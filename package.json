@@ -3,7 +3,7 @@
   "version": "0.1.7",
   "description": "Setup node Test ",
   "main": "index.js",
-   "scripts": {
+  "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/KathiravanKrish/SetupNode-Test/issues"
   },
-  "homepage": "https://github.com/KathiravanKrish/SetupNode-Test#readme"
+  "homepage": "https://github.com/KathiravanKrish/SetupNode-Test#readme",
+  "devDependencies": {
+    "vite": "^2.0.0"
+  }
 }
