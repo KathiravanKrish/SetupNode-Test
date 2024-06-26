@@ -3,10 +3,10 @@
   "version": "0.1.7",
   "description": "Setup node Test ",
   "main": "index.js",
-  "scripts": {
-  "build": "tsc",
-  "test": "standard"
-} ,
+ "scripts": { 
+  "build": "tsc", 
+  "test": "standard" 
+},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/KathiravanKrish/SetupNode-Test.git"
