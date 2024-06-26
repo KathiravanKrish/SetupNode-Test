@@ -3,9 +3,10 @@
   "version": "0.1.7",
   "description": "Setup node Test ",
   "main": "index.js",
-  "scripts": {
-    "build": "tsc",
-    "test": "standard"
+   "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "repository": {
     "type": "git",
