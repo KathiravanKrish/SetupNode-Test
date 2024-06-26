@@ -1,5 +1,6 @@
 {
-  "name": "setupnode-test",
+  "name": "themes-psh",
+  "private": false,
   "version": "0.1.7",
   "description": "Setup node Test ",
   "main": "index.js",
