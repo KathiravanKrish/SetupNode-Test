@@ -1,7 +1,7 @@
 {
-  "name": "apple-psh",
+  "name": "theme",
   "private": false,
-  "version": "4.0.4",
+  "version": "4.0.3",
   "description": "Setup node Test ",
   "main": "index.js",
   "scripts": {
