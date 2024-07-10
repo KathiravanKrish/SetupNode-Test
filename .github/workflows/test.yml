@@ -12,15 +12,11 @@ jobs:
       with:
         node-version: '21.x'
         registry-url: 'https://registry.npmjs.org'
-    - name: Configure npm
-      run: echo "//registry.npmjs.org/:_authToken=\${{ secrets.NPM_TOKEN }}" > ~/.npmrc
     - name: Install dependencies
       run: |
-        npm ci --ignore-scripts
-        npm rebuild
-        npm run prepare --if-present
+        npm install
         npm run build
     - name: Publish
       run: npm publish
       env:
-        NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+        NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
