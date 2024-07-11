@@ -1,10 +1,9 @@
 {
-  "name": "setup-node-test",
+  "name": "mavoe-psh",
   "version": "1.0.0",
-
-   "repository": {
+  "repository": {
     "type": "git",
-    "url": "https://github.com/KathiravanKrish/SetupNode-Test"
+    "url": "git+https://github.com/KathiravanKrish/SetupNode-Test.git"
   },
   "scripts": {
     "build": "vite build",
